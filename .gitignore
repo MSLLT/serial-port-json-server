@@ -1,8 +1,7 @@
+*.hex
+*.o
+*.elf
+*.DS_Store
+*.d
 
-bufferflow_tinyg_old.md
-
-serial-port-json-server
-
-snapshot/*
-
-*.exe
+README.md
